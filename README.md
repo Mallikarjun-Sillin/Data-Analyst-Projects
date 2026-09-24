@@ -14,7 +14,7 @@ This repository contains my hands-on Data Analytics and Business Intelligence pr
 - Exploratory Data Analysis
 - Data Visualization
 - Business Analysis
-- 
+  
 **## Projects**
   
 ### 1. Bank Loan Default Risk Analysis
