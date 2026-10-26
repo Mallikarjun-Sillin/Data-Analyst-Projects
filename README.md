@@ -2,24 +2,19 @@
 This repository contains my hands-on Data Analytics and Business Intelligence projects built using real-world datasets and practical business problems.
 
 ## Skills
-- Excel
-- SQL
-- Python
-- Pandas
-- Matplotlib
-- Power BI
-- DAX
-- Tableau
-- Statistics
-- Exploratory Data Analysis
-- Data Visualization
-- Business Analysis
+- Excel • SQL • Python • Pandas • NumPy • Matplotlib • Scikit-learn • Machine Learning • Logistic Regression • Random Forest • Gradient Boosting • Model Evaluation • Train-Test Split • Feature Engineering • Power BI • DAX • Tableau • Statistics • Exploratory Data Analysis (EDA) • Data Visualization • Data Modeling • Business Analysis • SQLite.
   
 **## Projects**
   
 ### 1. Bank Loan Default Risk Analysis
 An end-to-end analytics project focused on identifying patterns associated with loan defaults, performing risk segmentation, analyzing portfolio-wide default patterns, and developing practical risk-management recommendations.
 **Tools:** Python, Pandas, Matplotlib, Power BI, DAX
+
+### 2. MedTourEasy — Patient Conversion & Provider Performance Intelligence
+A healthcare analytics project focused on analyzing patient conversion, treatment drop-offs, provider performance, patient satisfaction, and revenue to generate actionable business insights.
+**Tools:** Power BI, DAX, Python, Pandas
+
+
 
 ### More Projects
 Additional Data Analytics projects will be added to this repository covering different business domains and analytical problems.
