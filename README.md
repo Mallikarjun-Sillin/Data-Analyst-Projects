@@ -18,6 +18,10 @@ A healthcare analytics project focused on analyzing patient conversion, treatmen
 A business analytics project focused on analyzing closed-deal trends, lead types, business segments, and sales representative performance to identify meaningful business insights.
 **Tools**: Python, Pandas, SQL, SQLite, Power BI, DAX.
 
+**4. Customer Churn & Retention Analysis**
+An end-to-end analytics project focused on analyzing customer churn patterns, identifying key churn drivers, and predicting customer churn risk using machine learning. Developed customer risk segments and actionable retention strategies, supported by interactive Power BI dashboards. 
+**Tools:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Power BI.
+
 
 
 ### More Projects
