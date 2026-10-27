@@ -14,6 +14,10 @@ An end-to-end analytics project focused on identifying patterns associated with 
 A healthcare analytics project focused on analyzing patient conversion, treatment drop-offs, provider performance, patient satisfaction, and revenue to generate actionable business insights.
 **Tools:** Power BI, DAX, Python, Pandas
 
+### 3. Lead Lifecycle & Conversion Intelligence System
+A business analytics project focused on analyzing closed-deal trends, lead types, business segments, and sales representative performance to identify meaningful business insights.
+**Tools**: Python, Pandas, SQL, SQLite, Power BI, DAX.
+
 
 
 ### More Projects
